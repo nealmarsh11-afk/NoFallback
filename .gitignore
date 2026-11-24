@@ -1,0 +1,15 @@
+classes/
+dex/
+*.apk.idsig
+unsigned.apk
+aligned.apk
+base.apk
+Hotspot5G-hook.apk
+debug.keystore
+stubs.jar
+stubs-classes/
+classes/
+dex/
+base.apk
+unsigned.apk
+aligned.apk
